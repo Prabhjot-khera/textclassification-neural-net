@@ -31,10 +31,4 @@ The model is trained using the Adam optimizer and binary crossentropy loss.
 
 The results of the model training, including accuracy and loss, will be displayed in the console output. Additional plots showing the distribution of features for diabetic and non-diabetic patients are also generated.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
